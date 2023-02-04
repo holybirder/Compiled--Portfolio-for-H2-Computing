@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: in the best(sorted) case, the omega(step) is smallest, so it has running time of omega(n), which is the shortest
+
+sort2 uses: merge sort
+
+How do you know?: it uses equal time for both best(sorted) and worst(reversed) case, and has the shortest time for the worst case(reversed)
+
+sort3 uses: selection sort
+
+How do you know?: it has equal time for both best(sorted) and worst(reversed) case, and the runnning time for worst case is very large, compared to the other methods
