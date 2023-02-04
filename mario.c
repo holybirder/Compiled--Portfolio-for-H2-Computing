@@ -1,4 +1,5 @@
 //mario: print out a half-pyramid(in the mario game) which has a height according to the input number
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/mario/less/
 
 #include <cs50.h>
 #include <stdio.h>
