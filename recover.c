@@ -1,3 +1,6 @@
+//recover: a programme that recovers deleted JPEG files from memory card, opens up a new file, and writes the recovered JPEG into it using malloc wihout memory leaks
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/recover/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
