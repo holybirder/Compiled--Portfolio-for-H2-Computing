@@ -2,12 +2,11 @@
 ---
 This README file is to explain what I did in each file of this repository.
 ---
-**This is a new repository that I created to share my code in the CS50x computer science course by Harvard University.
-This is not the same repository used in the course, as that one is made private by Harvard, so it cannot be shared.**
-In this repository, I have compiled the assignments(or problem sets) that I have submitted so far into the course.
+**This is a new repository that I created to share my code in the CS50x computer science course by Harvard University.**
 
-The descriptions for each project/file are below.
-However, you can also view the instructions for the homework in the CS50x course to understand what each assignment or problem set requires, using the links.
+**This is not the same repository used in the course, as that one is made private by Harvard, so it cannot be shared.**
+
+**In this repository, I have compiled the assignments(or problem sets) that I have submitted so far into the course.**
 
 Week 1
 - mario: print out a half-pyramid(in the mario game) which has a height according to the input number
