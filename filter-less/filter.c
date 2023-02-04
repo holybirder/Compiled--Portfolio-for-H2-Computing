@@ -1,3 +1,6 @@
+//filter: using the idea of bitmaps, create a programme that filters the input image into greyscale, sepia, reflection, and blurred images
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/filter/less/
+
 #include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
