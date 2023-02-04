@@ -13,25 +13,25 @@ Week 1
 - mario: print out a half-pyramid(in the mario game) which has a height according to the input number
    - assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/mario/less/
 - cash: using the "Greedy Algorithm" to calculate the least number of coins(25c, 10c, ...) that needs to be given back as a change
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/cash/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/cash/
 - credit: using Luhn's Algorithm as a "checksum" to detect fraudulent credit card numbers without searching in the database
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/credit/ 
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/credit/ 
 
 Week 2
 - readability: using Coleman-Liau index to decide what is  the suitable age for each book, or text, according to length and complexity
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/readability/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/readability/
 - caesar: using Caesar's encryption to convert plaintext into ciphertext(to send secret messages) by shifting letters 
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/caesar/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/caesar/
 
 Week 3
 - plurality: create a voting system using the plurality system(winner takes all)
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/3/plurality/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/3/plurality/
 - runoff: create a runoff voting system where there is a ranked choice(each voter has first, second, and third preference) 
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/3/runoff/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/3/runoff/
 
 Week 4
 - filter: using the idea of bitmaps, create a programme that filters the input image into greyscale, sepia, reflection, and blurred images 
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/filter/less/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/filter/less/
 - recover: a programme that recovers deleted JPEG files from memory card, opens up a new file, and writes the recovered JPEG into it using malloc wihout memory leaks 
-assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/recover/
+   - assignment instructions: https://cs50.harvard.edu/x/2022/psets/4/recover/
  
