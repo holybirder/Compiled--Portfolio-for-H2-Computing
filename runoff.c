@@ -1,3 +1,6 @@
+//runoff: create a runoff voting system where there is a ranked choice(each voter has first, second, and third preference)
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/3/runoff/
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
