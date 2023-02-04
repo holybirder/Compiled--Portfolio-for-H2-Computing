@@ -1,3 +1,6 @@
+//readability: using Coleman-Liau index to decide what is the suitable age for each book, or text, according to length and complexity
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/readability/
+
 #include <math.h>
 #include <ctype.h>
 #include <cs50.h>
