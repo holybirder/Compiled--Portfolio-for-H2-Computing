@@ -1,3 +1,6 @@
+//caesar: using Caesar's encryption to convert plaintext into ciphertext(to send secret messages) by shifting letters
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/2/caesar/
+
 #include <math.h>
 #include <stdio.h>
 #include <cs50.h>
