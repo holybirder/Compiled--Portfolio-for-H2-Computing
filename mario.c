@@ -1,3 +1,5 @@
+//mario: print out a half-pyramid(in the mario game) which has a height according to the input number
+
 #include <cs50.h>
 #include <stdio.h>
 
