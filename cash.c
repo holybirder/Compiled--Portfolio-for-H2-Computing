@@ -1,3 +1,6 @@
+//cash: using the "Greedy Algorithm" to calculate the least number of coins(25c, 10c, ...) that needs to be given back as a change
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/cash/
+
 #include <cs50.h>
 #include <stdio.h>
 
