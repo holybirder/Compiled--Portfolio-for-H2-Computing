@@ -1,3 +1,6 @@
+//credit: using Luhn's Algorithm as a "checksum" to detect fraudulent credit card numbers without searching in the database
+//assignment instructions: https://cs50.harvard.edu/x/2022/psets/1/credit/
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
